@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dorwein@gmail.com
+	name = dor weinberger
